@@ -16,12 +16,16 @@ body {
       margin: 0 auto;
       padding: 0 20px;
   }
-  section{
-      padding: 10px 0;
-  }
-  .section-title{
-      position: relative;
-      margin: 0 0 60px 0;
-      font-family: 'Abril Fatface', Cursive;
-      font-size: 30px;
-  }
+  .page-title{
+    position: relative;
+    margin: 50px 0 50px 0;
+    font-family: 'Abril Fatface', Cursive;
+    font-size: 36px;
+}
+.page-footer{
+    position: relative;
+    margin: 50px 0 50px 0;
+  font-family: 'Poppins', Sans-Serif;
+  font-style: italic;
+  font-size: 14px;
+}
